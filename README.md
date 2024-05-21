@@ -1,4 +1,4 @@
-# @darron1217/react-native-background-geolocation
+# tranminhnhat1005/rn-bg-geolocation
 
 [![CircleCI](https://circleci.com/gh/mauron85/react-native-background-geolocation/tree/master.svg?style=shield)](https://circleci.com/gh/mauron85/react-native-background-geolocation/tree/master)
 [![issuehunt-shield-v1](issuehunt-shield-v1.svg)](https://issuehunt.io/r/mauron85/react-native-background-geolocation/)
@@ -14,7 +14,7 @@ yarn add @darron1217/react-native-background-geolocation
 ### Automatic setup
 
 Since version 0.60 React Native does linking of modules [automatically](https://github.com/react-native-community/cli/blob/master/docs/autolinking.md). However it does it only for single module.
-As plugin depends on additional 'common' module, it is required to link it with:
+As the plugin depends on an additional 'common' module, it is required to link it with:
 
 ```
 node ./node_modules/@darron1217/react-native-background-geolocation/scripts/postlink.js
