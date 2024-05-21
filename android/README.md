@@ -13,3 +13,5 @@ ndkDir=$(pwd)/react-ndk/all/x86_64 \
 # Instrumented
 
 Test, that run on android device can be run from Android Studio.
+
+# Updated by Nhat Tran
